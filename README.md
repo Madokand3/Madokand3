@@ -1,8 +1,7 @@
-### Hi there 👋
+### Hi there! My name is Nidhish Iyer and I am a student at the BRMS.
 
+I am currently learning AI/ML and hoping to learn C, C+, and java. I have a huge interest for coding and want to try and make a carrer out of it! Thats all... :)
 <!--
-**Madokand3/Madokand3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
